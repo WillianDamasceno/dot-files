@@ -1,0 +1,11 @@
+{
+  // "extends": "next/core-web-vitals",
+  "rules": {
+    "semi": ["warn", "never"],
+    "no-trailing-spaces": "warn",
+    "quotes": ["warn", "double"],
+    "consistent-return": "off",
+    "no-unused-expressions": "off",
+    // "@next/next/no-img-element": "off"
+  }
+}
