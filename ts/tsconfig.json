@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "noUncheckedIndexedAccess": true,
+        "strictNullChecks": true,
+        "skipDefaultLibCheck": true,
+        "target": "ES6"
+    }
+}
