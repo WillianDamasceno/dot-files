@@ -1,6 +1,7 @@
 ## Packages
 
 ```bash
-npm install -D tailwindcss postcss autoprefixer @tailwindcss/typography daisyui @tailwindcss/aspect-ratio @tailwindcss/container-queries
+npm add -D tailwindcss postcss autoprefixer
+npm add -D @tailwindcss/typography @tailwindcss/aspect-ratio @tailwindcss/container-queries
+npm add -D daisyui
 ```
-
