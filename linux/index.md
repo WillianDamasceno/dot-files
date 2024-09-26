@@ -1,3 +1,11 @@
+# Packages
+```sh
+apt install tmux
+# Enable mouse scrolling
+echo "set -g mouse on" >> ~/.tmux.conf
+```
+
+# Nix
 ```sh
 nix-shell -p nvim bc util-linux ncdu htop fzf ranger feh eza
 ```
